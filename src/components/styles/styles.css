@@ -1,0 +1,49 @@
+.metaemblem {
+    display: inline-block;
+    width: 14rem;
+    height: 8rem;
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-right: 5px;
+}
+
+.nav-container {
+    display: grid;
+}
+
+img {
+    width: 20vw;
+    height: 20vh;
+}
+
+a {
+    width: 20vw;
+    height: 20vh;
+    text-decoration: none;
+    color: white;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+    
+}
+
+span {
+    position: relative;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    margin-right: 80vw;
+}
+
+body {
+    background-color: rgb(187, 187, 187);
+}
